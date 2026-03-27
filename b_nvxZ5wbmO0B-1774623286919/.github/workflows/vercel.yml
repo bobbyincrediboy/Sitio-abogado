@@ -1,1 +1,4 @@
 
+- name: vercel-ai
+
+  uses: vercel/ai-action@v2.2.0
